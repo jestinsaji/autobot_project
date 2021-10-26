@@ -32,4 +32,8 @@ export const Button=({
          </Link>
      );
 };
-
+//<Link to ='/sign-up' className='btn-mobile'>
+//           <button
+//               classname={'btn ${checkButtonStyle} ${checkButtonSize}'}
+//               onClick ={onClick}
+//               type={type}
